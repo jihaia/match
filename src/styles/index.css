@@ -1,0 +1,14 @@
+.ios-standalone-webapp .header {
+  padding-top: 15px;
+}
+body {
+  padding-top: 64px;
+  background-color: #FAFAFA !important;
+  margin: 0;
+}
+body.ios-standalone-webapp {
+  padding-top: 79px;
+}
+
+
+
